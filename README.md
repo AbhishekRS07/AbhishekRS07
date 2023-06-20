@@ -1,4 +1,4 @@
-<img src="./images/q.png" alt="c" width="100%" height="20%"/>
+<img src="https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80" alt="c" width="100%" height="20%"/>
 
 <h1 align="center">Hi 👋, I'm Abhishek Raj Singh</h1>
 <h3 align="center">A Learning Developer</h3>
@@ -34,7 +34,7 @@
  
  
 <div align="center">
-<a href="https://github.com/AbhishekRS07/github-readme-activity-graph"><img alt="Mitesh Sharma Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbhishekRS07&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/AbhishekRS07/github-readme-activity-graph"><img alt="" src="https://activity-graph.herokuapp.com/graph?username=AbhishekRS07&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div>
   
 <div align="center">
