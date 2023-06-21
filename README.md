@@ -11,9 +11,9 @@
 
 - [📫](abhiraj812000@gmail.com) How to reach me [📬mail_here abhiraj812000@gmail.com](abhiraj812000@gmail.com)
 
-<!-- - 📄 Know about my experiences [Resume__😎](https://drive.google.com/file/d/1TzVxhXAMyLrq0jfdis2Ul3h_QR-1saYl/view?usp=sharing) -->
+ 📄 Know about my experiences [Resume__](https://drive.google.com/drive/folders/1wdd7D_FefpaxB5cXyOKGfOz3dlym6KJi?usp=drive_link)
 
-- 🤩 Check out my <a href="" target="_blank">Portfolio</a>
+- 🤩 Check out my <a href="https://abhishekrs07.github.io" target="_blank">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
