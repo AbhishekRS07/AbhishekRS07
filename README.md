@@ -13,7 +13,7 @@
 
  📄 Know about my experiences [Resume__](https://drive.google.com/drive/folders/1wdd7D_FefpaxB5cXyOKGfOz3dlym6KJi?usp=drive_link)
 
-- 🤩 Check out my <a href="https://abhishekrs07.github.io" target="_blank">Portfolio</a>
+- 🤩 Check out my Portfolio at [https://abhishekrs07.github.io](https://abhishekrs07.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
