@@ -25,7 +25,7 @@
 
 
 
-<div align="left">
+<div margin="10px" align="left">
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=AbhishekRS07&theme=synthwave" alt="cybervirus997" width="47%" />
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekRS07&theme=synthwave" alt="jhj" width="47%" />
@@ -35,13 +35,19 @@
   <br/>
    <br/>
  
-<div align="right">
+<div margin="10px" align="right">
 <a href="https://github.com/AbhishekRS07/github-readme-activity-graph"><img alt="" src="https://activity-graph.herokuapp.com/graph?username=AbhishekRS07&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div>
    <br/>
   <br/>
    <br/>
- 
-<div align="left">
+
+<div margin="10px" align="left">
    <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhishekRS07&theme=synthwave" alt="" />
+</div>
+<br/>
+ <br/>
+   <br/>
+<div align="right">
+   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=AbhishekRS07" alt="" /><a herf="https://github-readme-stats.vercel.app/api?username=AbhishekRS07"/>
 </div>
